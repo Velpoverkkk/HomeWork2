@@ -1,0 +1,53 @@
+body{
+    margin:0;
+}
+div{
+    height: 69vh;
+}
+.conteiner1{   
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    top: 0;
+    background: rgba(206, 200, 30, 0.5);   
+}
+.conteiner1:hover{
+    background: rgba(150, 167, 22, 0.5)
+}
+.img1,.img2{
+    float: left;
+    margin-top: 1vh;
+    height: 80%;
+}
+.img1{     
+    margin-left: 1vh;
+}
+.img2{
+    float: right;
+    margin-right: 1vh;
+}
+.conteiner2{
+    margin-top: 10vh;
+    margin-bottom: 50px;
+    width: 70%;  
+    background: burlywood;
+    padding: 5px;
+    column-count: 2;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-left: solid rgb(49, 111, 192);
+    border-right: solid rgb(49, 111, 192);
+}
+.conteiner3{
+    padding-top: 2%;
+    margin: 0 auto;
+    width: 100%;
+    height: 15%;
+    background: rgba(0, 200, 0, 0.5);    
+}
+.conteiner3 p{
+    text-align: center;
+}
+.conteiner3:hover{
+    background: rgba(227, 0, 0, 1);
+}

@@ -1,0 +1,36 @@
+body{
+    position: absolute;
+    border: solid black;
+    height: 1000px;
+    width: 1000px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.Block_Red{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    background: red;
+    left: 0;
+    top: 0;
+}
+.Block_Blue{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    background: blue;  
+    right: 0;
+    bottom: 0;    
+}
+
+.Block_Green{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    background: rgb(0, 255, 0);  
+    top: 25%;
+    left: 25%;   
+}

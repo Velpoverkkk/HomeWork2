@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    line-height: 35px;
+    padding: 5%;
+}
+.verx{
+    width: 90%;
+    height: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 0 0 20px 20px;
+    background: burlywood;
+    line-height: 15vh;
+}
+.menu{
+    margin-left: 5%;
+    position: fixed;
+    width: 10%;
+    height: 600px;
+    background:rgba(100,255,200,0.5);
+    text-align: center;
+}
+.centr{
+    width: 77%;;
+    margin-left: 16%;
+    margin-right: 15%;
+    padding: 1%;
+    background:  rgba(100,255,200);
+
+}
+.niz{
+    width: 90%;
+    height: 15%;
+    margin: 0 5% 0 5%;
+    border-radius: 10px 10px 0 0;
+    background: burlywood;
+    line-height: 5vh;
+    text-align: center;
+}
